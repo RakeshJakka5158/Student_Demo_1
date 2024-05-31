@@ -1,4 +1,4 @@
-package Models;
+package com.acn.student.demo.Models;
 
 import jakarta.persistence.Entity;
 import lombok.Getter;
